@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/datove_struktury-intervalove_stromy/1.Napoleon/cmake-build-debug/CMakeFiles/1_Napoleon.dir
+/home/timo/CLionProjects/datove_struktury-intervalove_stromy/1.Napoleon/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/datove_struktury-intervalove_stromy/1.Napoleon/cmake-build-debug/CMakeFiles/rebuild_cache.dir

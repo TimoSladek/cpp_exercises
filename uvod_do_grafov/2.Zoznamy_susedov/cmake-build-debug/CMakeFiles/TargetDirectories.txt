@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/uvod_do_grafov/2.Zoznamy_susedov/cmake-build-debug/CMakeFiles/2_Zoznamy_susedov.dir
+/home/timo/CLionProjects/uvod_do_grafov/2.Zoznamy_susedov/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/uvod_do_grafov/2.Zoznamy_susedov/cmake-build-debug/CMakeFiles/rebuild_cache.dir

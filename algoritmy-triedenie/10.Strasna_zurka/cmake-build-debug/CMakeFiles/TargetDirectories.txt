@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/algoritmy-triedenie/10.Strasna_zurka/cmake-build-debug/CMakeFiles/10_Strasna_zurka.dir
+/home/timo/CLionProjects/algoritmy-triedenie/10.Strasna_zurka/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/algoritmy-triedenie/10.Strasna_zurka/cmake-build-debug/CMakeFiles/rebuild_cache.dir

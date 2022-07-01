@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/datove_struktury-halda/2.Zdravotne_stredisko/cmake-build-debug/CMakeFiles/2_Zdravotne_stredisko.dir
+/home/timo/CLionProjects/datove_struktury-halda/2.Zdravotne_stredisko/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/datove_struktury-halda/2.Zdravotne_stredisko/cmake-build-debug/CMakeFiles/rebuild_cache.dir

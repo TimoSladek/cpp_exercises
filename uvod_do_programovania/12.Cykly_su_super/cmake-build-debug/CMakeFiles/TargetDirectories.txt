@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/cykly_su_super/cmake-build-debug/CMakeFiles/cykly_su_super.dir
+/home/timo/CLionProjects/cykly_su_super/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/cykly_su_super/cmake-build-debug/CMakeFiles/rebuild_cache.dir

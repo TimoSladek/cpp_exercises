@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/algoritmy-triedenie/4.Na_telesnej_vychove/cmake-build-debug/CMakeFiles/4_Na_telesnej_vychove.dir
+/home/timo/CLionProjects/algoritmy-triedenie/4.Na_telesnej_vychove/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/algoritmy-triedenie/4.Na_telesnej_vychove/cmake-build-debug/CMakeFiles/rebuild_cache.dir

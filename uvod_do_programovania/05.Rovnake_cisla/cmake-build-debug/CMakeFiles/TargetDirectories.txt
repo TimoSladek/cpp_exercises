@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/rovnake_cisla/cmake-build-debug/CMakeFiles/rovnake_cisla.dir
+/home/timo/CLionProjects/rovnake_cisla/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/rovnake_cisla/cmake-build-debug/CMakeFiles/rebuild_cache.dir

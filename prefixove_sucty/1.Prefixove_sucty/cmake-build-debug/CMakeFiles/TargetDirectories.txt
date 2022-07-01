@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/prefixove_sucty/1.Prefixove_sucty/cmake-build-debug/CMakeFiles/1_Prefixove_sucty.dir
+/home/timo/CLionProjects/prefixove_sucty/1.Prefixove_sucty/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/prefixove_sucty/1.Prefixove_sucty/cmake-build-debug/CMakeFiles/rebuild_cache.dir

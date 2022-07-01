@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/grafy-DFS/2.Pocet_nadlistov/cmake-build-debug/CMakeFiles/2_Pocet_nadlistov.dir
+/home/timo/CLionProjects/grafy-DFS/2.Pocet_nadlistov/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/grafy-DFS/2.Pocet_nadlistov/cmake-build-debug/CMakeFiles/rebuild_cache.dir

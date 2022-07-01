@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/teoria_cisel-lahsia/4.Najvacsi_spolocny_delitel/cmake-build-debug/CMakeFiles/4_Najvacsi_spolocny_delitel.dir
+/home/timo/CLionProjects/teoria_cisel-lahsia/4.Najvacsi_spolocny_delitel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/teoria_cisel-lahsia/4.Najvacsi_spolocny_delitel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

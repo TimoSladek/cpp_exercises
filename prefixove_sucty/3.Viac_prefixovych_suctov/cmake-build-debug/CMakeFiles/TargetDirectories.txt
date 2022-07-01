@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/prefixove_sucty/3.Viac_prefixovych_suctov/cmake-build-debug/CMakeFiles/3_Viac_prefixovych_suctov.dir
+/home/timo/CLionProjects/prefixove_sucty/3.Viac_prefixovych_suctov/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/prefixove_sucty/3.Viac_prefixovych_suctov/cmake-build-debug/CMakeFiles/rebuild_cache.dir

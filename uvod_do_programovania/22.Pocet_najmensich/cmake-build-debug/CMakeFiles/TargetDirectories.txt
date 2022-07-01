@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/pocet_najmensich/cmake-build-debug/CMakeFiles/pocet_najmensich.dir
+/home/timo/CLionProjects/pocet_najmensich/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/pocet_najmensich/cmake-build-debug/CMakeFiles/rebuild_cache.dir

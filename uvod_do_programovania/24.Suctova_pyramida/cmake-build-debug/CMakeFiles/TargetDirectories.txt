@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/suctova_pyramida/cmake-build-debug/CMakeFiles/suctova_pyramida.dir
+/home/timo/CLionProjects/suctova_pyramida/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/suctova_pyramida/cmake-build-debug/CMakeFiles/rebuild_cache.dir

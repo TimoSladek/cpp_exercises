@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/algoritmy-triedenie/9.Bankova_lupez/cmake-build-debug/CMakeFiles/9_Bankova_lupez.dir
+/home/timo/CLionProjects/algoritmy-triedenie/9.Bankova_lupez/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/algoritmy-triedenie/9.Bankova_lupez/cmake-build-debug/CMakeFiles/rebuild_cache.dir

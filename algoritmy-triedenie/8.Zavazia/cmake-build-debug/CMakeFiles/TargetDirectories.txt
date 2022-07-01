@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/algoritmy-triedenie/8.Zavazia/cmake-build-debug/CMakeFiles/8_Zavazia.dir
+/home/timo/CLionProjects/algoritmy-triedenie/8.Zavazia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/algoritmy-triedenie/8.Zavazia/cmake-build-debug/CMakeFiles/rebuild_cache.dir

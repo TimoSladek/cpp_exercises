@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/grafy-DFS/1.Pocet_listov/cmake-build-debug/CMakeFiles/1_Pocet_listov.dir
+/home/timo/CLionProjects/grafy-DFS/1.Pocet_listov/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/grafy-DFS/1.Pocet_listov/cmake-build-debug/CMakeFiles/rebuild_cache.dir

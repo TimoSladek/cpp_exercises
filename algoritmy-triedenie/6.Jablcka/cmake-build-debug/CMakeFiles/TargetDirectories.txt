@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/algoritmy-triedenie/6.Jablcka/cmake-build-debug/CMakeFiles/6_Jablcka.dir
+/home/timo/CLionProjects/algoritmy-triedenie/6.Jablcka/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/algoritmy-triedenie/6.Jablcka/cmake-build-debug/CMakeFiles/rebuild_cache.dir

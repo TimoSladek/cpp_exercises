@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/datove_struktury-binarne_vyhladavacie_stromy/1.Simple_set_1/cmake-build-debug/CMakeFiles/1_Simple_set_1.dir
+/home/timo/CLionProjects/datove_struktury-binarne_vyhladavacie_stromy/1.Simple_set_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/datove_struktury-binarne_vyhladavacie_stromy/1.Simple_set_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

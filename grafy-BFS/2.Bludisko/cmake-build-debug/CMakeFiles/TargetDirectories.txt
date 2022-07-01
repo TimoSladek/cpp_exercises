@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/grafy-BFS/2.Bludisko/cmake-build-debug/CMakeFiles/2_Bludisko.dir
+/home/timo/CLionProjects/grafy-BFS/2.Bludisko/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/grafy-BFS/2.Bludisko/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/datove_struktury-union-find/1.Sneh/cmake-build-debug/CMakeFiles/1_Sneh.dir
+/home/timo/CLionProjects/datove_struktury-union-find/1.Sneh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/datove_struktury-union-find/1.Sneh/cmake-build-debug/CMakeFiles/rebuild_cache.dir

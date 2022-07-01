@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/otocenie/cmake-build-debug/CMakeFiles/otocenie.dir
+/home/timo/CLionProjects/otocenie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/otocenie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

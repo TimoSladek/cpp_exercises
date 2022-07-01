@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/algoritmy-triedenie/1.Poriadok/cmake-build-debug/CMakeFiles/1_Poriadok.dir
+/home/timo/CLionProjects/algoritmy-triedenie/1.Poriadok/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/algoritmy-triedenie/1.Poriadok/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/algoritmy-triedenie/2.Vystavny_kus/cmake-build-debug/CMakeFiles/2_Vystavny_kus.dir
+/home/timo/CLionProjects/algoritmy-triedenie/2.Vystavny_kus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/algoritmy-triedenie/2.Vystavny_kus/cmake-build-debug/CMakeFiles/rebuild_cache.dir

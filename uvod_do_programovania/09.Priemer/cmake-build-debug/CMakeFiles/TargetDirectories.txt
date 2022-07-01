@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/priemer/cmake-build-debug/CMakeFiles/priemer.dir
+/home/timo/CLionProjects/priemer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/priemer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

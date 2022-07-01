@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/obdlznik_1/cmake-build-debug/CMakeFiles/obdlznik.dir
+/home/timo/CLionProjects/obdlznik_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/obdlznik_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

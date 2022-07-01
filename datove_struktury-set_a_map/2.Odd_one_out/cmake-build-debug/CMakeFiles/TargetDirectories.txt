@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/datove_struktury-set_a_map/2.Odd_one_out/cmake-build-debug/CMakeFiles/2_Odd_one_out.dir
+/home/timo/CLionProjects/datove_struktury-set_a_map/2.Odd_one_out/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/datove_struktury-set_a_map/2.Odd_one_out/cmake-build-debug/CMakeFiles/rebuild_cache.dir

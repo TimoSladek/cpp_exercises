@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/teoria_cisel-lahsia/2.Faktorizacia/cmake-build-debug/CMakeFiles/2_Faktorizacia.dir
+/home/timo/CLionProjects/teoria_cisel-lahsia/2.Faktorizacia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/teoria_cisel-lahsia/2.Faktorizacia/cmake-build-debug/CMakeFiles/rebuild_cache.dir

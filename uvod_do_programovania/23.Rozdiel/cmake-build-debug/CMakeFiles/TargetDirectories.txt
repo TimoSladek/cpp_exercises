@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/rozdiel/cmake-build-debug/CMakeFiles/rozdiel.dir
+/home/timo/CLionProjects/rozdiel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/rozdiel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

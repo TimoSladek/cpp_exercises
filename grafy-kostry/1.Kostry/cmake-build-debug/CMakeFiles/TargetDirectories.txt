@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/grafy-kostry/1.Kostry/cmake-build-debug/CMakeFiles/1_Kostry.dir
+/home/timo/CLionProjects/grafy-kostry/1.Kostry/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/grafy-kostry/1.Kostry/cmake-build-debug/CMakeFiles/rebuild_cache.dir

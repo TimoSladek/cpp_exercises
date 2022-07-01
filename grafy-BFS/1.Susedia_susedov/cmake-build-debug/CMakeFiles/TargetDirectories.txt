@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/grafy-BFS/1.Susedia_susedov/cmake-build-debug/CMakeFiles/1_Susedia_susedov.dir
+/home/timo/CLionProjects/grafy-BFS/1.Susedia_susedov/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/grafy-BFS/1.Susedia_susedov/cmake-build-debug/CMakeFiles/rebuild_cache.dir

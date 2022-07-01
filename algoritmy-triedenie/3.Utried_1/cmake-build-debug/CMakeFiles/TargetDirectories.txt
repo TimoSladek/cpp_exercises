@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/algoritmy-triedenie/3.Utried_1/cmake-build-debug/CMakeFiles/3_Utried_1.dir
+/home/timo/CLionProjects/algoritmy-triedenie/3.Utried_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/algoritmy-triedenie/3.Utried_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

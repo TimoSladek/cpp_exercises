@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/sucet_mensich/cmake-build-debug/CMakeFiles/sucet_mensich.dir
+/home/timo/CLionProjects/sucet_mensich/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/sucet_mensich/cmake-build-debug/CMakeFiles/rebuild_cache.dir

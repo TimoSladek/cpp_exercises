@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/teoria_cisel-lahsia/cmake-build-debug/CMakeFiles/teoria_cisel_lahsia.dir
+/home/timo/CLionProjects/teoria_cisel-lahsia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/teoria_cisel-lahsia/cmake-build-debug/CMakeFiles/rebuild_cache.dir

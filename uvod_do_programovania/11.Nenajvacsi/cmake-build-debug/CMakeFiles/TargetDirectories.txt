@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/nenajvacsi/cmake-build-debug/CMakeFiles/nenajvacsi.dir
+/home/timo/CLionProjects/nenajvacsi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/nenajvacsi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

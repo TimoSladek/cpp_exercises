@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/cislo/cmake-build-debug/CMakeFiles/cislo.dir
+/home/timo/CLionProjects/cislo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/cislo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

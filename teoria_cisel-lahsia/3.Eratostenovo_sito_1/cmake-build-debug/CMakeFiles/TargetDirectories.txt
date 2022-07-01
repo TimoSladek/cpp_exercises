@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/teoria_cisel-lahsia/3.Eratostenovo_sito_1/cmake-build-debug/CMakeFiles/3_Eratostenovo_sito_1.dir
+/home/timo/CLionProjects/teoria_cisel-lahsia/3.Eratostenovo_sito_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/teoria_cisel-lahsia/3.Eratostenovo_sito_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

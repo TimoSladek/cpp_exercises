@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/akeze_je_znamienko/cmake-build-debug/CMakeFiles/akeze_je_znamienko.dir
+/home/timo/CLionProjects/akeze_je_znamienko/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/akeze_je_znamienko/cmake-build-debug/CMakeFiles/rebuild_cache.dir

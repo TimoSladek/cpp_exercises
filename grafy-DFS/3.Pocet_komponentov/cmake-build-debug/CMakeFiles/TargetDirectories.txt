@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/grafy-DFS/3.Pocet_komponentov/cmake-build-debug/CMakeFiles/3_Pocet_komponentov.dir
+/home/timo/CLionProjects/grafy-DFS/3.Pocet_komponentov/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/grafy-DFS/3.Pocet_komponentov/cmake-build-debug/CMakeFiles/rebuild_cache.dir

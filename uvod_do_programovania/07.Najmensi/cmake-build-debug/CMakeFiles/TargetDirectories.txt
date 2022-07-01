@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/najmensi/cmake-build-debug/CMakeFiles/najmensi.dir
+/home/timo/CLionProjects/najmensi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/najmensi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

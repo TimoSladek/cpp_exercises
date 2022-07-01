@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/algoritmy-binarne_vyhladavanie/3.Najdi_cislo_2/cmake-build-debug/CMakeFiles/3_Najdi_cislo_2.dir
+/home/timo/CLionProjects/algoritmy-binarne_vyhladavanie/3.Najdi_cislo_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/algoritmy-binarne_vyhladavanie/3.Najdi_cislo_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/grafy-BFS/3.Najkratsia_cesta/cmake-build-debug/CMakeFiles/3_Najkratsia_cesta.dir
+/home/timo/CLionProjects/grafy-BFS/3.Najkratsia_cesta/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/grafy-BFS/3.Najkratsia_cesta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
